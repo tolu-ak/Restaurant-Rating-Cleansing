@@ -1,0 +1,20 @@
+Field,Data Type,Non-Null Count,Null Count,Sample Value
+Yelp URL,object,659,0,https://www.yelp.com/biz/in-s%C4%ABt-coffee-buena-park
+Name,object,659,0,In-sīt Coffee
+Street Address,object,659,0,6930 Beach Blvd Ste L301
+Zip Code,object,659,0,90621
+City,object,659,0,Buena Park
+State,object,659,0,CA
+Price Range,object,659,0,$
+Phone,object,659,0,(714) 670 6958
+Rating,float64,659,0,4.0
+Number of Reviews,float64,659,0,583.0
+Website,object,522,137,www.juliescafes.com
+Menu Link,object,325,334,www.juliescafes.com/menu/
+Image 1,object,659,0,https://s3-media0.fl.yelpcdn.com/bphoto/TgX8pHkGqVjAOV4dKgXHQw/l.jpg
+Image 2,object,658,1,https://s3-media0.fl.yelpcdn.com/bphoto/e9oSgMtBpklUinDUZ-UojQ/l.jpg
+Image 3,object,657,2,https://s3-media0.fl.yelpcdn.com/bphoto/gJUxfajplGJQrLXVHRV-Ww/l.jpg
+Category 1,object,659,0,Coffee & Tea
+Category 2,object,532,127,Waffles
+Category 3,object,363,296,Breakfast & Brunch
+review_outliers,bool,659,0,False
